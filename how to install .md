@@ -1,3 +1,4 @@
+read this file in code in the slider above ↖️
 first install thw white . rasi file
 and add the white.rasi file in the rofi themes folder 
 on linux go into root and go to usr/share/rofi/themes/ and paste the rasi file 
